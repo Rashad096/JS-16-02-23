@@ -1,0 +1,16 @@
+#total-count{
+    margin: 20px 0;
+    margin-left: 6px;
+}
+
+#task1{
+    margin-bottom: 2rem;
+}
+
+#task2 input{
+    outline: none;
+}
+
+#task2{
+    margin-bottom: 2rem;
+}
